@@ -5,10 +5,10 @@
   (paper "USLetter")
 
   (title_block
-    (title "IFX007T Motor Driver Testing")
-    (date "2022-01-06")
+    (title "Brake Controller Breakout")
+    (date "2022-04-04")
     (rev "A")
-    (company "Ben Owen")
+    (company "AMP Purdue")
   )
 
   (lib_symbols
