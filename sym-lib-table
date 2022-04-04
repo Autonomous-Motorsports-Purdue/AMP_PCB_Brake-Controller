@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Driver_Motor_Other")(type "KiCad")(uri "${KIPRJMOD}/libs/Driver_Motor_Other.kicad_sym")(options "")(descr ""))
+)
