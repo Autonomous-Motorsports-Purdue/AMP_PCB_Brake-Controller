@@ -9,11 +9,12 @@ PCB with brake motor controller files and documentation
 ## Testing
 - [X] Order PCB
 - [X] Assemble PCB
-- [ ] Test PCB
+- [ ] Test PCB independently
   - [X] Simple forward/reverse polarity
-  - [ ] Higher current (motor) load
+  - [X] Higher current (motor) load
   - [ ] PWM forward/reverse
-  - [ ] PWM motor load
+  - [X] PWM motor load
+- [ ] Test PCB on kart
 
 ## Notes
 - Find reverse polarity protection MOSFET and suitable zener diode
